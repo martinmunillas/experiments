@@ -1,0 +1,12 @@
+{
+  "name": "e0004-ts-node-register",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.2.1"
+  },
+  "scripts": {
+    "dev": "node index.ts"
+  }
+}
