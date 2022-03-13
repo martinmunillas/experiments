@@ -1,0 +1,13 @@
+{
+  "name": "e0005-typeorm-create-with-id",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.4",
+    "ts-node": "^10.7.0"
+  },
+  "scripts": {
+    "dev": "ts-node index.ts"
+  }
+}
